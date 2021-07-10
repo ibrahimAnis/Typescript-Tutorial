@@ -1,0 +1,1 @@
+console.log("Typescript tuorial 2")
