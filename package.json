@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "yarn": "^1.22.10"
+  },
   "devDependencies": {
     "lite-server": "^2.6.1"
   },

@@ -1,0 +1,47 @@
+Module Introduction
+
+Using Types
+
+TypeScript Types vs JavaScript Types
+
+Important: Type Casing
+
+Working with Numbers, Strings & Booleans
+
+Type Assignment & Type Inference
+
+Understanding Types
+
+Object Types
+
+Nested Objects & Types
+
+Arrays Types
+
+Working with Tuples
+
+Working with Enums
+
+The "any" Type
+
+Union Types
+
+Literal Types
+
+Type Aliases / Custom Types
+
+Type Aliases & Object Types
+
+Core Types & Concepts
+4 questions
+Function Return Types & "void"
+
+Functions as Types
+
+Function Types & Callbacks
+
+Functions & Types
+3 questions
+The "unknown" Type
+
+The "never" Type
